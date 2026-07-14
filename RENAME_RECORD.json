@@ -1,0 +1,242 @@
+[
+  {
+    "old_path": "manyBody/Introduction to Many-Body Physics (Piers Coleman) (Z-Library).pdf",
+    "new_path": "manyBody/Introduction to Many-Body Physics (Piers Coleman) (Z-Library).pdf",
+    "status": "UNCHANGED",
+    "timestamp": "2026-07-14T15:07:47.169830"
+  },
+  {
+    "old_path": "CMFT/Condensed Matter Field Theory (Altland A., Simons B.D.) (Z-Library).pdf",
+    "new_path": "CMFT/Condensed Matter Field Theory (Alexander Altland, Ben Simons) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.170009"
+  },
+  {
+    "old_path": "manyBody/907500493-Many-particle-Physics-Gerald-D-Mahan-Z-Library.pdf",
+    "new_path": "manyBody/Many-Particle Physics (Gerald D. Mahan) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.170107"
+  },
+  {
+    "old_path": "manyBody/固体理论 (李正中) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "new_path": "manyBody/固体理论 (李正中) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.170327"
+  },
+  {
+    "old_path": "manyBody/Introduction_to_Superconductivity_by_Mic.pdf",
+    "new_path": "manyBody/Introduction to Superconductivity (Michael Tinkham).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.170415"
+  },
+  {
+    "old_path": "manyBody/978-3-030-41265-4.pdf",
+    "new_path": "manyBody/Physics and Mathematics of Quantum Many-Body Systems (Hal Tasaki).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.170498"
+  },
+  {
+    "old_path": "manyBody/978-3-319-07049-0.pdf",
+    "new_path": "manyBody/Quantum Theory of Many-Body Systems (Alexandre Zagoskin).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.170678"
+  },
+  {
+    "old_path": "manyBody/978-3-642-14090-7.pdf",
+    "new_path": "manyBody/Density Functional Theory An Advanced Course (Eberhard Engel, Reiner M. Dreizler).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.170757"
+  },
+  {
+    "old_path": "manyBody/manybodycondensedmatter.pdf",
+    "new_path": "manyBody/Many-Body Quantum Theory in Condensed Matter Physics (Henrik Bruus, Karsten Flensberg).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.170975"
+  },
+  {
+    "old_path": "CMFT/Basics of Thermal Field Theory A Tutorial on Perturbative Computations (Mikko Laine, Aleksi Vuorinen (auth.)) (Z-Library).pdf",
+    "new_path": "CMFT/Basics of Thermal Field Theory (Mikko Laine, Aleksi Vuorinen) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171086"
+  },
+  {
+    "old_path": "CMFT/Finite-temperature field theory principles and applications (Joseph I. Kapusta, Charles Gale) (Z-Library).pdf",
+    "new_path": "CMFT/Finite-Temperature Field Theory Principles and Applications (Joseph I. Kapusta, Charles Gale) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171153"
+  },
+  {
+    "old_path": "CMFT/Fradkin, Field Theories of Condensed Matter Physics.pdf",
+    "new_path": "CMFT/Field Theories of Condensed Matter Physics (Eduardo Fradkin).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171237"
+  },
+  {
+    "old_path": "CMFT/Thermal Field Theory (Le Bellac, Michel) (Z-Library).pdf",
+    "new_path": "CMFT/Thermal Field Theory (Michel Le Bellac) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171314"
+  },
+  {
+    "old_path": "Jakob/No-Nonsense Classical Mechanics (Jakob Schwichtenberg) (Z-Library).pdf",
+    "new_path": "Jakob/No-Nonsense Classical Mechanics (Jakob Schwichtenberg) (Z-Library).pdf",
+    "status": "UNCHANGED",
+    "timestamp": "2026-07-14T15:07:47.171317"
+  },
+  {
+    "old_path": "Jakob/No-Nonsense Electrodynamics_ A Student Friendly Introduction -- Anna’s Archive.pdf",
+    "new_path": "Jakob/No-Nonsense Electrodynamics (Jakob Schwichtenberg) (Anna's Archive).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171406"
+  },
+  {
+    "old_path": "Jakob/No-Nonsense_Quantum_Field_Theory_-_Jakob_Schwichtenberg.pdf",
+    "new_path": "Jakob/No-Nonsense Quantum Field Theory (Jakob Schwichtenberg).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171480"
+  },
+  {
+    "old_path": "Jakob/Physics from_Symmetry.pdf",
+    "new_path": "Jakob/Physics from Symmetry (Jakob Schwichtenberg).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171554"
+  },
+  {
+    "old_path": "MD/Ab initio molecular dynamics basic theory and advanced methods (Dominik Marx, Jürg Hutter) (Z-Library).pdf",
+    "new_path": "MD/Ab Initio Molecular Dynamics Basic Theory and Advanced Methods (Dominik Marx, Jürg Hutter) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171616"
+  },
+  {
+    "old_path": "MD/Ab initio molecular dynamics basic theory and advanced methods (Dominik Marx, Jürg Hutter) (Z-Library)_1_579.pdf",
+    "new_path": "MD/基于第一性原理的分子动力学 基础理论与高级方法 (Dominik Marx, Jürg Hutter) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.171791"
+  },
+  {
+    "old_path": "MD/Computer Simulation of Liquids AT2.pdf",
+    "new_path": "MD/Computer Simulation of Liquids (Michael P. Allen, Dominic J. Tildesley).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.172114"
+  },
+  {
+    "old_path": "MD/David P. Landau, Kurt Binder - A Guide to Monte Carlo Simulations in Statistical Physics (2014, Cambridge University Press) - libgen.lc.pdf",
+    "new_path": "MD/A Guide to Monte Carlo Simulations in Statistical Physics (David P. Landau, Kurt Binder) (libgen).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.172232"
+  },
+  {
+    "old_path": "MD/MCSiSP19.pdf",
+    "new_path": "MD/Monte Carlo Simulation in Statistical Physics (Kurt Binder, Dieter W. Heermann).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.172327"
+  },
+  {
+    "old_path": "CFT/1511.04074v2.pdf",
+    "new_path": "CFT/Lectures on Conformal Field Theory (Joshua D. Qualls) (arXiv 1511.04074v2).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.172747"
+  },
+  {
+    "old_path": "CFT/CFT.pdf",
+    "new_path": "CFT/Conformal Field Theory (A. N. Schellekens).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.172859"
+  },
+  {
+    "old_path": "QFT/LB Quantum Field Theory for the Gifted Amateur.pdf",
+    "new_path": "QFT/Quantum Field Theory for the Gifted Amateur (Tom Lancaster, Stephen J. Blundell).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.172963"
+  },
+  {
+    "old_path": "QFT/ralss10_p An Introduction to QED QCD F Hautmann.pdf",
+    "new_path": "QFT/An Introduction to QED and QCD (Francesco Hautmann).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.173058"
+  },
+  {
+    "old_path": "zh/基于对称性的现代物理学PfS_normalver.pdf",
+    "new_path": "zh/基于对称性的现代物理学 (Jakob Schwichtenberg 著, 超理汉化组译).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.173249"
+  },
+  {
+    "old_path": "zh/理论力学简明教程 (安宇) (Z-Library)(OCR).pdf",
+    "new_path": "zh/理论力学简明教程 (安宇) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.173690"
+  },
+  {
+    "old_path": "zh/统计物理学导论 (王竹溪) (Z-Library).pdf",
+    "new_path": "zh/统计物理学导论 (王竹溪) (Z-Library).pdf",
+    "status": "UNCHANGED",
+    "timestamp": "2026-07-14T15:07:47.173699"
+  },
+  {
+    "old_path": "zh/蒙特卡罗方法与人工智能Book_4_MCMC_中文版.pdf",
+    "new_path": "zh/蒙特卡洛方法与人工智能 (Adrian Barbu, 朱松纯 著, 魏平 译).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.173801"
+  },
+  {
+    "old_path": "zh/量子场论讲义_余钊焕1807_QFT.pdf",
+    "new_path": "zh/量子场论讲义 (余钊焕) (arXiv 1807).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.174095"
+  },
+  {
+    "old_path": "zh/（已压缩）光学（第五版） ([美] Eugene，Hecht（尤金・赫克特） 著，秦克诚 译)(OCR).pdf",
+    "new_path": "zh/光学 (第五版) (Eugene Hecht 著, 秦克诚 译).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.174201"
+  },
+  {
+    "old_path": "topics/Flow Matching Guide and Code.pdf",
+    "new_path": "topics/Flow Matching Guide and Code (Yaron Lipman et al.).pdf",
+    "status": "NOT_FOUND",
+    "timestamp": "2026-07-14T15:07:47.174220"
+  },
+  {
+    "old_path": "topics/Yang Song submit-augmented.pdf",
+    "new_path": "topics/Learning to Generate Data by Estimating Gradients of Data Distribution (Yang Song).pdf",
+    "status": "NOT_FOUND",
+    "timestamp": "2026-07-14T15:07:47.174228"
+  },
+  {
+    "old_path": "topics/（已压缩）Book_1_Marr_final.pdf",
+    "new_path": "topics/Computer Vision Statistical Models for Marr's Paradigm (Song-Chun Zhu, Ying Nian Wu).pdf",
+    "status": "NOT_FOUND",
+    "timestamp": "2026-07-14T15:07:47.174234"
+  },
+  {
+    "old_path": "topics/（已压缩）Book_4_MonteCarlo.pdf",
+    "new_path": "topics/Monte Carlo Methods (Adrian Barbu, Song-Chun Zhu).pdf",
+    "status": "NOT_FOUND",
+    "timestamp": "2026-07-14T15:07:47.174241"
+  },
+  {
+    "old_path": "topics/bootstrap/2507.21007v2.pdf",
+    "new_path": "topics/bootstrap/High-Precision Bootstrap of Multi-Matrix Quantum Mechanics (Henry W. Lin, Zechuan Zheng) (arXiv 2507.21007v2).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.174475"
+  },
+  {
+    "old_path": "topics/bootstrap/2511.08560v1.pdf",
+    "new_path": "topics/bootstrap/Bootstrapping Euclidean Two-Point Correlators (Minjae Cho, Barak Gabai et al.) (arXiv 2511.08560v1).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.174570"
+  },
+  {
+    "old_path": "topics/bootstrap/Bootstrap Method in Theoretical Physics 2401.00350v1.pdf",
+    "new_path": "topics/bootstrap/Bootstrap Method in Theoretical Physics (Zechuan Zheng) (arXiv 2401.00350v1).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-14T15:07:47.174954"
+  },
+  {
+    "old_path": "Statistical Data Analysis (Glen Cowan) (Z-Library).pdf",
+    "new_path": "Statistical Data Analysis (Glen Cowan) (Z-Library).pdf",
+    "status": "UNCHANGED",
+    "timestamp": "2026-07-14T15:07:47.174960"
+  }
+]
