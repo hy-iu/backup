@@ -238,5 +238,143 @@
     "new_path": "Statistical Data Analysis (Glen Cowan) (Z-Library).pdf",
     "status": "UNCHANGED",
     "timestamp": "2026-07-14T15:07:47.174960"
+  },
+  {
+    "old_path": "CVGC/Yang Song submit-augmented.pdf",
+    "new_path": "CVGC/Learning to Generate Data by Estimating Gradients of the Data Distribution (Yang Song).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "CVGC/（已压缩）Book_1_Marr_final.pdf",
+    "new_path": "CVGC/Computer Vision Statistical Models for Marr's Paradigm (Song-Chun Zhu, Ying Nian Wu).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "CVGC/（已压缩）Book_4_MonteCarlo.pdf",
+    "new_path": "CVGC/Monte Carlo Methods (Adrian Barbu, Song-Chun Zhu).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "CVGC/Flow Matching Guide and Code.pdf",
+    "new_path": "CVGC/Flow Matching Guide and Code (Yaron Lipman et al.).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Introduction to High Energy Physics, D Perkins, 4th Edition - Cambridge University Press (Euler) (z-library.sk, 1lib.sk, z-lib.sk) 似乎未OCR.pdf",
+    "new_path": "QFT/Introduction to High Energy Physics (Donald H. Perkins) (Z-Library) (未OCR).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Nuclear and particle physics  an introduction by Brian Robert Martin Graham Shaw (z-lib.org).pdf",
+    "new_path": "QFT/Nuclear and Particle Physics An Introduction (Brian R. Martin, Graham Shaw) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Quarks and leptons  an introductory course in modern particle physics (Halzen, F. (Francis), Martin etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "new_path": "QFT/Quarks and Leptons An Introductory Course in Modern Particle Physics (Francis Halzen, Alan D. Martin) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/qcd-and-collider-physics-3thp3z0e84.pdf",
+    "new_path": "QFT/QCD and Collider Physics (W. J. Stirling) (CERN).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/qcd-and-collider-physics_compress.pdf",
+    "new_path": "QFT/QCD and Collider Physics (R. K. Ellis, W. J. Stirling, B. R. Webber) (未OCR).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/QCD for Collider Physics.pdf",
+    "new_path": "QFT/QCD for Collider Physics (P. Z. Skands).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Peskin/Peskin, An Introduction to Quantum Field Theory.pdf",
+    "new_path": "QFT/Peskin/An Introduction to Quantum Field Theory (Michael E. Peskin, Daniel V. Schroeder).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Peskin/peskin_problems鲜于中之答案.pdf",
+    "new_path": "QFT/Peskin/An Introduction to Quantum Field Theory 习题解答 (鲜于中之).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Peskin/量子场论导论1(Peskin)的副本 2.pdf",
+    "new_path": "QFT/Peskin/量子场论导论 第一卷 (Peskin, Schroeder 著, Made By Minrusen).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Peskin/量子场论导论2-翻译版 (Peskin)2.pdf",
+    "new_path": "QFT/Peskin/量子场论导论 第二卷 (Peskin, Schroeder 著, Made By Minrusen).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Peskin/量子场论导论3-翻译版 (Peskin)3.pdf",
+    "new_path": "QFT/Peskin/量子场论导论 第三卷 (Peskin, Schroeder 著, Made By Minrusen).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/SM/2012.11642v1.pdf",
+    "new_path": "QFT/SM/Precision Tests of the Standard Model (Ayres Freitas) (arXiv 2012.11642v1).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/SM/Electroweak precision tests of the Standard Model after the.pdf",
+    "new_path": "QFT/SM/Electroweak Precision Tests of the Standard Model after the Discovery of the Higgs Boson (Jens Erler, Matthias Schott).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/SM/The Standard Model and Beyond, Second Edition (Paul Langacker) (Z-Library).pdf",
+    "new_path": "QFT/SM/The Standard Model and Beyond (Paul Langacker) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Weinberg/Quantum Theory of Fields Volume 1, Foundations (Steven Weinberg) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "new_path": "QFT/Weinberg/The Quantum Theory of Fields Volume 1 Foundations (Steven Weinberg) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Weinberg/The Quantum Theory of Fields Volume 2, Modern Applications (Steven Weinberg) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "new_path": "QFT/Weinberg/The Quantum Theory of Fields Volume 2 Modern Applications (Steven Weinberg) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/Weinberg/The Quantum Theory of Fields, Volume 3) Supersymmetry (2000. PB 2005) (Steven Weinberg) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "new_path": "QFT/Weinberg/The Quantum Theory of Fields Volume 3 Supersymmetry (Steven Weinberg) (Z-Library).pdf",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "Non-equilibrium thermodynamics (S. R. De Groot, P. Mazur) (Z-Library).djvu",
+    "new_path": "Non-Equilibrium Thermodynamics (S. R. De Groot, P. Mazur) (Z-Library).djvu",
+    "status": "SUCCESS",
+    "timestamp": "2026-07-25T19:43:44.217807"
+  },
+  {
+    "old_path": "QFT/SM/Precision Tests of the Standard Model.pdf",
+    "new_path": "(DELETED)",
+    "status": "DELETED",
+    "timestamp": "2026-07-25T19:43:44.217807"
   }
 ]
